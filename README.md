@@ -20,7 +20,7 @@ testes
 <p>Meu nome é <strong>Daniel Alves</strong>  sou consultor SAP MM</p>
 <picture>
   <source media="(max-heigth: 1050px)" srcset="fotominha.png" type="img/png">
-  <img src="../ex002/fotominha.jpg" alt="imagem flexivel"></picture>
+  <img src="https://github.com/danielgunit/danielgunit.io/blob/main/universoterra.PNG" alt="imagem flexivel"></picture>
 </picture>
 
 <h2>Como falar comigo?</h2>
