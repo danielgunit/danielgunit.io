@@ -16,7 +16,7 @@ testes
   <h1>Minhas redes sociais</h1>
   <p><strong>Quem sou eu?</strong></p>
 
-<img src="../ex002/fotominha.jpg">
+
 <p>Meu nome é <strong>Daniel Alves</strong>  sou consultor SAP MM</p>
 <picture>
   <source media="(max-heigth: 1050px)" srcset="fotominha.png" type="img/png">
